@@ -4,12 +4,10 @@
 import SwiftUI
 
 struct BackButton: View {
-    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
+    @Environment(\.dismiss) var dismiss
     
     var body: some View {
-        Button(action: {
-            self.presentationMode.wrappedValue.dismiss()
-        }) {
+        Button(action: { dismiss() }) {
             Image("arrow")
                 .resizable()
                 .scaledToFit()

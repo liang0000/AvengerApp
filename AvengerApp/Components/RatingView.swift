@@ -11,9 +11,7 @@ struct RatingView: View {
     var body: some View {
         HStack {
             ForEach(1..<4) { index in
-                Button(action: {
-                    selectedRating = index
-                }) {
+                Button(action: { selectedRating = index }) {
                     Image(index <= selectedRating ? "star.fill" : "star")
                         .resizable()
                         .scaledToFit()

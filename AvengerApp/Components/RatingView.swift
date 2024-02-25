@@ -3,8 +3,6 @@
 
 import SwiftUI
 
-
-
 struct RatingView: View {
     @Binding var selectedRating: Int
     

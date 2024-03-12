@@ -4,7 +4,7 @@
 import SwiftUI
 
 @main
-struct AvengerAppApp: App {
+struct AvengerApp: App {
     @State private var avengerData = AllAvenger()
     
     var body: some Scene {

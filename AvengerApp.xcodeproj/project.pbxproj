@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B6E83EB62B84DC66000B46CE /* AvengerAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E83EB52B84DC66000B46CE /* AvengerAppApp.swift */; };
+		B6E83EB62B84DC66000B46CE /* AvengerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E83EB52B84DC66000B46CE /* AvengerApp.swift */; };
 		B6E83EB82B84DC66000B46CE /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E83EB72B84DC66000B46CE /* HomeView.swift */; };
 		B6E83EBA2B84DC69000B46CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E83EB92B84DC69000B46CE /* Assets.xcassets */; };
 		B6E83EBD2B84DC69000B46CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E83EBC2B84DC69000B46CE /* Preview Assets.xcassets */; };
@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		B6E83EB22B84DC66000B46CE /* AvengerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AvengerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B6E83EB52B84DC66000B46CE /* AvengerAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengerAppApp.swift; sourceTree = "<group>"; };
+		B6E83EB52B84DC66000B46CE /* AvengerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengerApp.swift; sourceTree = "<group>"; };
 		B6E83EB72B84DC66000B46CE /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		B6E83EB92B84DC69000B46CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6E83EBC2B84DC69000B46CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -61,7 +61,7 @@
 		B6E83EB42B84DC66000B46CE /* AvengerApp */ = {
 			isa = PBXGroup;
 			children = (
-				B6E83EB52B84DC66000B46CE /* AvengerAppApp.swift */,
+				B6E83EB52B84DC66000B46CE /* AvengerApp.swift */,
 				B6E83ECD2B84F03F000B46CE /* Views */,
 				B6E83EC82B84E023000B46CE /* Components */,
 				B6E83EC32B84DD06000B46CE /* Models */,
@@ -181,7 +181,7 @@
 				B6E83ECC2B84EC80000B46CE /* BackButton.swift in Sources */,
 				B6E83EC52B84DD19000B46CE /* Avenger.swift in Sources */,
 				B6E83ECA2B84E040000B46CE /* AvengerRow.swift in Sources */,
-				B6E83EB62B84DC66000B46CE /* AvengerAppApp.swift in Sources */,
+				B6E83EB62B84DC66000B46CE /* AvengerApp.swift in Sources */,
 				B6E83ECF2B84FA25000B46CE /* RatingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

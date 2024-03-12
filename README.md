@@ -1,3 +1,8 @@
-<img src="https://github.com/liang0000/AvengerApp/assets/54095039/1f09645d-83af-4b93-8182-bbf3e489e91e"> <img src="https://github.com/liang0000/AvengerApp/assets/54095039/fb475335-501c-4b7e-86b4-0f730d07f682">
-<img src="https://github.com/liang0000/AvengerApp/assets/54095039/b2c147c5-0a0d-4376-afb7-ef2c3458d086">
+## Home Screen
+### List, Rating Label, Image
+<img src="https://github.com/liang0000/AvengerApp/assets/54095039/4bd235ae-f9dc-4d99-8ad1-87fdbd9aba67" width="250">
 
+## Detail Screen
+### Rating Start, Image
+<img src="https://github.com/liang0000/AvengerApp/assets/54095039/6c1ed899-7acb-4c90-ac4a-c2b591eb7397" width="250">
+<img src="https://github.com/liang0000/AvengerApp/assets/54095039/991257e8-a7d4-4b42-9d1d-38822a9923b1" width="250">
